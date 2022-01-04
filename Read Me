@@ -1,0 +1,7 @@
+The Feed Forward Neural Network based NILM model was trained using training and testing dataset which was generated during NILM model generated using Dirichlet Regression
+through usage of R programming language.
+
+80% of the dataset for training
+20% of the dataset is for testing
+
+Here, X-variables were not normalized. 
