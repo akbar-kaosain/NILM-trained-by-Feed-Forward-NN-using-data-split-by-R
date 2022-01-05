@@ -5,3 +5,6 @@ through usage of R programming language.
 20% of the dataset is for testing
 
 Here, X-variables were not normalized. 
+
+The code used for splitting the original Dataset can be found in the link below:
+https://github.com/Mohammad-Kaosain-Akbar/NILM-using-Dirichlet-Regression/tree/main/Attempt%201%20(Hour%20added%20with%2080%25%20training)
